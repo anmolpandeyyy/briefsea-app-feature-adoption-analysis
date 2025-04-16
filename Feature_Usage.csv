@@ -1,0 +1,8 @@
+session_id,user_id,feature_name,screen_name,timestamp
+S201,U101,Create Brief,BriefEditor,2025-03-01 10:03:00
+S202,U102,View Proposals,ProposalList,2025-03-01 10:10:00
+S203,U101,Chat With Vendor,ChatScreen,2025-03-01 10:15:00
+S204,U103,Create Brief,BriefEditor,2025-03-02 11:00:00
+S205,U104,Create Brief,BriefEditor,2025-03-03 12:00:00
+S206,U105,View Proposals,ProposalList,2025-03-04 13:00:00
+S207,U101,Create Brief,BriefEditor,2025-03-01 10:20:00

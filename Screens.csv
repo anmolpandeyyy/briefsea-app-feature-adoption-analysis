@@ -1,0 +1,5 @@
+screen_name,screen_order,section
+HomeScreen,1,Home
+BriefEditor,2,Brief Creation
+ProposalList,3,Proposals
+ChatScreen,4,Engagement

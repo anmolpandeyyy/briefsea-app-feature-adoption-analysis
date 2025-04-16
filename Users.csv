@@ -1,0 +1,6 @@
+user_id,signup_date,device_type,location
+U101,2025-03-01,Android,Mumbai
+U102,2025-03-02,iOS,Delhi
+U103,2025-03-03,Android,Bangalore
+U104,2025-03-05,iOS,Chennai
+U105,2025-03-07,Android,Mumbai
